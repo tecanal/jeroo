@@ -1,2 +1,2 @@
-# moz-jeroo
+# jeroo
 A Jeroo implementation built on top of TeCanal Mosaic.
